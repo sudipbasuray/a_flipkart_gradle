@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Login Regression Suite]">
+  <test name="logi suite(failed)">
+    <classes>
+      <class name="a_flipkart_gradle.Login_Suite">
+        <methods>
+          <include name="appclose"/>
+          <include name="applaunch"/>
+          <include name="failedlogin"/>
+        </methods>
+      </class> <!-- a_flipkart_gradle.Login_Suite -->
+    </classes>
+  </test> <!-- logi suite(failed) -->
+</suite> <!-- Failed suite [Login Regression Suite] -->

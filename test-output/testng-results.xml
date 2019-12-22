@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Login Regression Suite" duration-ms="51577" started-at="2019-12-16T16:05:56Z" finished-at="2019-12-16T16:06:47Z">
+    <groups>
+    </groups>
+    <test name="logi suite" duration-ms="51577" started-at="2019-12-16T16:05:56Z" finished-at="2019-12-16T16:06:47Z">
+      <class name="a_flipkart_gradle.Login_Suite">
+        <test-method status="PASS" signature="applaunch()[pri:0, instance:a_flipkart_gradle.Login_Suite@cb5822]" name="applaunch" is-config="true" duration-ms="13294" started-at="2019-12-16T21:35:56Z" finished-at="2019-12-16T21:36:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applaunch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:a_flipkart_gradle.Login_Suite@cb5822]" name="login" duration-ms="11751" started-at="2019-12-16T21:36:09Z" finished-at="2019-12-16T21:36:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="appclose()[pri:0, instance:a_flipkart_gradle.Login_Suite@cb5822]" name="appclose" is-config="true" duration-ms="2321" started-at="2019-12-16T21:36:21Z" finished-at="2019-12-16T21:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appclose -->
+        <test-method status="PASS" signature="applaunch()[pri:0, instance:a_flipkart_gradle.Login_Suite@cb5822]" name="applaunch" is-config="true" duration-ms="12667" started-at="2019-12-16T21:36:23Z" finished-at="2019-12-16T21:36:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applaunch -->
+        <test-method status="PASS" signature="failedlogin()[pri:1, instance:a_flipkart_gradle.Login_Suite@cb5822]" name="failedlogin" duration-ms="11411" started-at="2019-12-16T21:36:36Z" finished-at="2019-12-16T21:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- failedlogin -->
+        <test-method status="PASS" signature="appclose()[pri:0, instance:a_flipkart_gradle.Login_Suite@cb5822]" name="appclose" is-config="true" duration-ms="94" started-at="2019-12-16T21:36:47Z" finished-at="2019-12-16T21:36:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appclose -->
+      </class> <!-- a_flipkart_gradle.Login_Suite -->
+    </test> <!-- logi suite -->
+  </suite> <!-- Login Regression Suite -->
+</testng-results>
